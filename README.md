@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">Masters student leveraging machine learning to advance life science research</h3>
 
-- 🔭 I’m currently working on **Agility Maze RL Agent**
+- 🔭 I’m currently working on **Skill Maze RL Agent**, **Dealing with Class Imbalance in ML**, **L1 & L2 Regularization**
 
 - 🌱 I’m currently learning **PyTorch, Tensorflow and Python**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mario-dg](https://github.com/mario-dg)
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Stuff I'm interested in**
 
 - 📫 How to reach me **mario.dagraca@gmx.de**
 
